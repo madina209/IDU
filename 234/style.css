@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+ margin: 0px;    
+}
+
+  .a {
+    background-image: url(https://preview.colorlib.com/theme/gricklo/assets/img/hero/h1_hero.jpg.webp);  
+       height: 100vh;  
+
+
+
+}
+
+.b{
+   padding-top: 20px; 
+    width: 100%;
+     height: 100%;
+     background: ;linear-gradient;(to bottom: rgba(26,32,61,0.65) 0%, rgba(27,34,60,0.75) 48%, rgba(27,34,60,0.73) 50%, rgba(25,32,61,0.72) 51%, rgba(26,32,62,0.63) 59%, rgba(25,32,61,0.57) 64%, rgba(26,32,62,0.48) 72%, rgba(27,34,60,0.46) 74%, rgba(25,32,62,0.45) 75%, rgba(27,34,61,0.43) 77%, rgba(25,32,60,0.42) 78%, rgba(28,34,61,0.35) 84%, rgba(25,31,60,0.34) 85%, rgba(24,31,59,0.3) 88%, rgba(26,33,59,0.29) 89%, rgba(27,35,62,0.28) 90%, rgba(27,31,59,0.27) 91%, rgba(26,34,59,0.26) 92%, rgba(27,31,63,0.25) 93%, rgba(28,32,60,0.24) 94%, rgba(25,34,59,0.23) 95%, rgba(25,31,61,0.21) 96%, rgba(27,32,58,0.2) 97%, rgba(24,36,59,0.18) 98%, rgba(26,32,57,0.16) 99%, rgba(27,34,60,0.15) 100%);)
+     padding-top: 20px; 
+    
+}
+
+.icon{
+    padding-left: 20px;
+
+
+}  
+
+input {
+    border-radius: 50px;
+    width: 250px;
+    height: 40px;
+    background:rgba(255,255,255,0.25);
+    font-size: 20px;
+    border: none;
+    padding-left: 50px;
+    position: relative;
+
+
+}
+
+input::placeholder{
+    color: #fff;
+    font-size: 16px;
+     font-family: 'Mulish', san
+
+
+}
+
+.home span{
+   color: #fff; 
+   font-family: Work-sans sans-serif
+padding-left:20px
+font-weight: 700;
+font-size: 17px;
+
+
+}
+table{
+    padding-top: 10px;
+}
+
+.sign{
+    padding-left: 180px;
+     color: #fff;
+     font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+  padding-right: 15px;
+  }    
+
+  button{
+   font-family: ;'Mulish', sans-serif;
+    background-color: aqua;
+    border-radius: 30px;
+     font-size: 16px;
+     color: #fff;
+        border: none;
+        padding: 15px;
+       
+            }
+       {box-sizing border-box
+        color rgb(77, 81, 86)
+        display block
+        font-family -apple-system, BlinkMacSystemFont, "segoe ui", Roboto, Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol"
+        font-size 16px
+        font-stretch 100%
+        font-style normal
+        font-variant-caps normal
+        font-variant-east-asian normal
+        font-variant-ligatures normal
+        font-variant-numeric normal
+        font-weight 400
+        height 0px
+        left -9999px
+        line-height 28.8px
+        overflow-x hidden
+        overflow-y hidden
+        position absolute
+        text-size-adjust 100%
+        visibility hidden
+        width 0px
+        -webkit-font-smoothing antialiased
+
+       }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

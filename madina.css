@@ -1,0 +1,608 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .div1{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px 30px;
+        cursor: pointer;
+    }
+    .class1{
+        width: 15%;
+        /* height: 90px; */
+        margin-bottom: 10px;
+    }
+    .div3{
+        display: flex;
+        align-items: center;
+        color: gray;
+        margin: 20px 0;
+    }
+
+    .div3 p {
+        padding: 10px 20px;
+    }
+    .class2{
+    border: none;
+    color: red;
+    }
+    .div5{
+        width: 100%;
+        height: 100vh;
+        background-image: url(photo_2022-04-16_11-52-04.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    }
+    .div5 h1{
+        position: absolute;
+        top: 10vh;
+        width: 60vh; 
+        margin-top: 35vh;
+        font-size: 60px;
+        color: white;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        margin-bottom: 30px;
+    }
+    .mmm{
+        background-color: rgb(255, 0, 0);
+        border: none;
+        margin-top: 75vh;
+        margin-right: 160vh;
+        color: white;
+        width: 25vh;
+        height: 35px;
+        font-size: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .div p{
+        display: flex;
+        justify-content: center;
+        color: red;
+        font-size: 50px;
+        padding-top: 20px;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .m1{
+        margin-left: 1vh;
+        color: red;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .diva{
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .diva1{
+        display: flex;
+        font-size: 16px !important;
+        color: black !important;
+        line-height: 2.1;
+        letter-spacing: 0.0625rem;
+        width: 50%;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: gray;
+
+    }
+
+    .div {
+        padding-bottom: 150px;
+        padding-top: 70px;
+    background-color: #f8f8f8;
+    }
+    .diva2{
+        display: flex;
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .classa{
+        font-size: 50px;
+        color: red;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;;
+        display: flex;
+        
+    }
+    .divcha{
+        display: flex;
+        height: auto;
+        justify-content: space-between;
+        width: 70%;
+    }
+
+    .logo h2{
+        color: red;
+        font-size: 5pc;
+    }
+
+    .image{
+        object-fit: contain;
+    }
+    .diva2 h2{
+        font-family:"Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 50px;
+        letter-spacing: 3px;
+    }
+    .logo span{
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        letter-spacing: 1px;
+        line-height: 2.1; 
+    }
+    .logo i{
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        letter-spacing: 1px;
+        line-height: 2.1; 
+    }
+    .classic{
+        background: #254b92;
+        color: white;
+        border-color: #254b92;
+        font-size: 1.125rem;
+        line-height: 1.3;
+        border-radius: 0.25rem;
+        margin-left: 58vh;
+        margin-top: 55px;
+        width: 200px;
+        height: 50px;
+        margin-bottom: 120px;
+    }
+    .logo h2{
+        padding-top: 7.5rem;
+        padding-bottom: 2rem;
+    }
+    .madi{
+        background: #f8f8f8;
+    }
+    .madi {
+        letter-spacing: 1px;
+        padding-top: 75px;
+    }
+
+    .madi b {
+        font-size: 40px;
+        color: red;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .madi p {
+        font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+    .madiv button{
+        margin-top: 90px;
+        background-color: #254b92;
+        color: #f8f8f8;
+        width: 20vh;
+        height: 45px;
+        border-color: #254b92;
+        font-size: 1.125rem;
+        line-height: 1.3;
+        margin-left: 57vh;
+        margin-bottom: 10vh;
+    }
+    .divv{
+        padding-top: 85px;
+        background: #f8f8f8;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .classs{
+        color: red;
+        font-family:"Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+        font-size: 50px;
+    }
+
+    .p1{
+        font-style: italic;
+        color: #55565b;
+        margin-top: 25px;
+        margin-bottom: 50px;
+    }.width {
+        width: 60%;
+        text-align: center;
+    }.card {
+        background: #f8f8f8;
+        width: 33.3%
+    }
+
+    .cards span{
+        margin-top: 30px;
+    }
+
+    .iconify{
+        font-size: 50px;
+    padding-top: 50px;
+        
+    }
+
+    .col-2 p{
+        margin-top: 2pc;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .m{
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif ; 
+        margin-top: 28px;
+        margin-bottom: 50px;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+    }
+
+    .card-col-1{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .col-2{
+        display: flex;
+        width: 95%;
+        justify-content: space-between;
+    }
+
+    .cards{
+        color: black;
+        opacity: 70%;
+        font-family: "Poppins", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        width: 555px;
+    }
+
+    .card-col-2{
+        display: flex;justify-content: center;
+        width: 95%;
+    }
+
+    .ml1{
+        color: black;
+        opacity: 70%;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        width: 555px;
+    }
+
+    .ml1{
+        font-family:"Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+    }
+
+    .ml2{
+        font-family:"Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        color: black;
+        opacity: 70%;
+        font-weight: 400;
+        width: 555px;
+    }
+
+    .ml3{
+        color: black;
+        opacity: 70%;
+        width: 555px;
+    }
+
+    .ccc{
+        font-family:"Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        font-weight: 400;
+    }
+
+    .col-2 :hover{
+        background:white;
+        color: blue;
+        opacity: 80%;
+    }
+
+    .width{
+        margin-bottom: 100px;
+    }
+
+    .new-div1{
+        margin-top: 55px;
+        margin-bottom: 55px;
+    }
+
+
+    .new1{
+        display: flex;
+        justify-content: center;
+        color: rgb(209, 10, 10);
+        font-size: 50px;
+        padding-top: 20px;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .dv1{
+        width: 565px;
+        height: 290px;
+        background: #f8f8f8;
+        margin-left: 4vh;
+        color: black;
+        opacity: 75%;
+        border-radius: 8px;
+        margin-top: 15px;
+    }
+
+    .dv1 .iconify{
+    font-size: 80px;
+    margin-left: 220px;
+    
+    }
+
+    .dv{
+        display: flex;justify-content: center;
+        width: 95%;
+    }
+
+    .p-ste1{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    margin-left: 190px;
+    display: flex;align-items: center;
+    border-radius: 0.5rem;
+    }
+
+    .p-ste2{
+        margin-left: 50px;
+        font-size: 0.85rem;
+        line-height: 2;
+        letter-spacing: 0;
+    }
+
+    .p-ste25{
+        margin-left: 85px;
+        font-size: 0.85rem;
+        line-height: 2;
+        letter-spacing: 0;
+    }
+
+    .ste-but{
+        margin-top: 15px;
+        margin-left: 200px;
+        width: 160px;
+        height: 35px;
+        border-color: black;
+        border-radius: 5px;
+        color: black; 
+        background:#f8f8f8 ;
+    }
+
+    .dv :hover{
+        background: white;
+        color:rgb(23, 23, 172);
+    }
+
+    .but-dv :hover{
+        background: #113983;
+        border: #113983;
+        color: white;
+    }
+
+    .dv2{
+        width: 565px;
+        height: 290px;
+        background: #f8f8f8;
+        color: black;
+        opacity: 75%;
+        border-radius: 8px;
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+
+    .p-ste3{
+        margin-top: 10px;
+        margin-bottom: 20px;
+      margin-left: 190px;
+      display: flex;align-items: center;
+      border-radius: 0.5rem;
+    }
+
+    .dv2 .iconify{
+        font-size: 80px;
+        margin-left: 230px;
+    }
+
+         .dv2   .ste-but2{
+        margin-top: 15px;
+        margin-left: 200px;
+        width: 160px;
+        height: 35px;
+        border-color: black;
+        border-radius: 5px;
+        color: black; 
+        background:#f8f8f8 ;
+    }
+
+    .but-dv2{
+        margin-left: 200px;
+        width: 160px;
+        height: 35px;
+        border-color: black;
+        border-radius: 5px;
+        color: black; 
+        background:#f8f8f8 ;
+        margin-top: 30px;
+    }
+
+    .p-ste4{
+        margin-left: 12vh;
+        margin-top: 28px;
+        margin-bottom: 12px;
+    }
+    .but_dv :hover{
+        background: #113983;
+            border: #113983;
+            color: white;
+     }
+    
+     .nava{
+         margin-top: 55px;
+         color: rgb(209, 10, 10);
+        font-size: 50px;
+        padding-top: 20px;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        margin-bottom: 55px;
+     }
+    
+     .nav2{
+         width: 250px;
+         height: 290px;
+         background: #f8f8f8;
+        margin-left: 45vh;
+        border-radius: 10px;
+        margin-top: 70px;
+     }
+    
+     .nav2 .iconify{
+         color: black;
+         opacity: 60%;
+        
+     }
+    
+     .nav-sty1{
+         font-family:"Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+         line-height: 18px;
+         letter-spacing: 2px;
+         color: black;
+         opacity: 65%;
+         margin-top: 15px;
+         margin-bottom: 17px;
+     }
+    
+     .nav-sty2{
+        color: black;
+         opacity: 65%;
+        font-size: 0.85rem;
+        line-height: 2;
+        letter-spacing: 0;
+     }
+    
+     
+    
+     .nav3{
+        width: 250px;
+        height: 290px;
+        background: #f8f8f8;
+        margin-left: 4.5vh;
+        border-radius: 10px;
+        margin-top: 70px;
+        color: black;
+        opacity: 65%;
+     }
+    
+     .nav1{
+         display: flex;
+         align-items: center;
+     }
+    
+     .nav3 .iconify{
+         margin-bottom: 20px;
+         cursor: pointer;
+     }
+    
+     .as {
+        color: black;
+       font-size: 0.85rem;
+       line-height: 2;
+       letter-spacing: 0;
+       margin-top: 15px;
+     }
+    
+     .nav4{
+        width: 250px;
+        height: 290px;
+        background: #f8f8f8;
+        margin-left: 4.5vh;
+        border-radius: 10px;
+        margin-top: 70px;
+        color: black;
+        opacity: 65%;
+     }
+    
+     .dr{
+        font-family:"Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+        margin-top: 28px;
+     }
+    
+     .dr1{
+        color: black;
+        font-size: 0.85rem;
+        line-height: 2;
+        letter-spacing: 0;
+        margin-top: 15px;
+     }
+    
+     .br{
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+     }
+    
+     .nav5{
+        width: 250px;
+        height: 290px;
+        background: #f8f8f8;
+        margin-left: 4.5vh;
+        border-radius: 10px;
+        margin-top: 70px;
+        color: black;
+        opacity: 65%;
+     }
+    
+     .tr{
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        margin-top: 18px;
+     }
+    
+     .tr1{
+        color: black;
+        font-size: 0.85rem;
+        line-height: 2;
+        letter-spacing: 0;
+        margin-top: 15px;
+     }
+    
+     .nav2:hover.iconify{
+        background: white !important;
+        color: blue !important;
+        
+     }
+
+     .tr{
+         color: black;
+     }
+
+     .nav6 {
+         transition: .3s;
+     }
+
+     .nav6:hover {
+        background-color: white;
+        box-shadow: 0 0.1429rem 0.6429rem 0.07143rem rgb(1 2 2 / 10%);
+    }
+
+    .nav6:hover svg {
+        color: rgb(24, 24, 184) !important;
+     }
+    
+    .nav6:hover .nav-sty1 {
+         color: rgb(24, 24, 184)!important;
+     }
+
+     .nav6:hover .nav-sty2 {
+        color:rgb(24, 24, 184) !important;
+     }
+
+     .navbar{
+         margin-top: 35vh;
+     }
+
+   .navbar1{
+        font-weight: 700;
+        letter-spacing: 0.125rem;   
+        font-size: 3rem;
+        line-height: 1.2;
+        color: #e41f39 !important;
+        font-family: "Josefin Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
